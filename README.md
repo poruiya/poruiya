@@ -1,5 +1,3 @@
-![poruiya]
-
 <h1 align="center"><img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+To+My+Github+Profile!;Hi%2C+I'm+poruiya;a+Discord+Bot+Developer;I+love+Coding%2C+Gaming+And+Chilling!" alt="Typing SVG" /></h1>
 
 I'm poruiya, an 16 year New developer from Iran that goes by "PH poruiya" on media.
