@@ -18,6 +18,6 @@ Need help building your community or custom bot? You can [contact](https://disco
 ### My Skills and Tools & Software I Use
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,jquery,bootstrap,vscode,mongodb,postgres,cloudflare,discord,github,git)
 #
-[![poruiya Development Discord](https://discord.com/api/guilds/1062471609375539331/widget.json)](https://discord.gg/nKrBshQvcK)<br>
+[![poruiya Development Discord]](https://discord.gg/nKrBshQvcK)<br>
 [![Website poruiya.ir](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://arshia.ir)
 <img src="https://komarev.com/ghpvc/?username=poruiya&color=brightgreen" alt="watching_count" />
