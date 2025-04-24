@@ -19,7 +19,6 @@
 
 <p align="left"> <a href="https://discord.com/channels/@me/942361321456926721" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/poruiya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/poruiya._.deragon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/942361321456926721)](https://discord.com/users/942361321456926721)
 
 ### My Skills and Tools & Software I Use
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,npm,c,cs,cpp,gcp,lua,ps,php,react,bootstrap,vscode,visualstudio,webstorm,mongodb,mysql,cloudflare,discord,discordjs,github,ae,au,ai,pr,xd,blender,unity,kali,linux,windows)
