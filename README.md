@@ -1,29 +1,86 @@
-<h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi;My+Name+Is+Poruiya;Maybe+Software+Engineer%3F" alt="Typing SVG" /></h1>
+# 👋 Hi, I'm Poruiya!
 
-* 🤝  I'm poruiya, an 17 year Developer from Iran.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57CDF1&width=435&lines=17yo+Self-Taught+Developer;Discord+Bots+%26+Web+Dev;No+Limits,+Just+Build!)](https://git.io/typing-svg)
 
-* ⚡  I joined Discord 6 years ago and soon got interested in creating servers, coding bots, managing communities, designing stuff
+I'm Poruiya, a 17-year-old coder from Iran, programming since I was 8. I'm a self-taught web developer and Discord enthusiast, building bots and managing servers. My motto: *"Programming has no limits, just try to build your idea!"* I code for fun, create scripts, and I'm learning C++ in class while exploring new tech.
 
-* 🌍  Need help building your community or custom bot? You can [Contact](https://discord.com/channels/@me/942361321456926721) me on Discord!
+📬 **Need a bot or server help?** DM me on [Discord](https://discordapp.com/users/942361321456926721)!
 
-## What I'm Doing
+## 💡 About Me
 
-### Bots
-- Creating high-quality Discord bots at a professional level, with lots of features for all purposes.
-### Servers
-- I enjoy building, managing and moderating communities and help others to do it too.
-### Scripts
-- Creating Medium-level Script for everything i know ;)
+- **Age**: 17, coding since age 8
+- **From**: Iran, powered by curiosity
+- **Skills**: Self-taught web dev (HTML, CSS, JS) + Discord bots (Discord.js)
+- **Learning**: C++ in class, eyeing cybersecurity and desktop apps
+- **Passion**: Making communities thrive with code
+- **Fun Fact**: My first script was a bot that sent random memes!
 
-### Socials
+## 🚀 What I Do
 
-<p align="left"> <a href="https://discord.com/channels/@me/942361321456926721" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/poruiya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/poruiya._.deragon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+- **🤖 Discord Bots**: Building bots for moderation, fun, and automation.
+- **🖧 Server Management**: Creating and moderating vibrant Discord servers.
+- **🌐 Web Development**: Crafting websites with modern tools, all self-taught.
+- **📜 Scripts**: Writing fun or useful scripts in Python, JS, and more.
 
+## 🛠️ Skills
 
-### My Skills and Tools & Software I Use
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,sass,tailwind,styledcomponents,ts,webpack,nodejs,php,laravel,py,dotnet,mongodb,mysql,discordjs,git,github,netlify,cloudflare,npm,yarn,sentry,figma,blender,ps,c,cpp,vscode,visualstudio,idea,linux,ubuntu,arch,kali,windows,bash,powershell,regex,electron,discord&perline=12)
-# 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=poruiya&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
+### Front-End Development
+Crafting sleek web interfaces.
+[![Front-End Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,sass,tailwind,styledcomponents,ts,webpack&perline=6)](https://skillicons.dev)
+
+### Back-End Development
+Powering apps with server-side logic.
+[![Back-End Skills](https://skillicons.dev/icons?i=nodejs,php,laravel,py,dotnet,mongodb,mysql,discordjs&perline=6)](https://skillicons.dev)
+
+### DevOps / Deployment
+Managing and deploying projects.
+[![DevOps Skills](https://skillicons.dev/icons?i=git,github,netlify,cloudflare,npm,yarn,sentry&perline=6)](https://skillicons.dev)
+
+### Design / Creative
+Designing visuals for bots and servers.
+[![Design Skills](https://skillicons.dev/icons?i=figma,blender,ps&perline=6)](https://skillicons.dev)
+
+### System Programming
+Learning low-level coding.
+[![System Skills](https://skillicons.dev/icons?i=c,cpp&perline=6)](https://skillicons.dev)
+
+### IDEs / Tools
+My coding tools.
+[![Tools Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea&perline=6)](https://skillicons.dev)
+
+### Operating Systems
+Platforms for coding and testing.
+[![OS Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,kali,windows&perline=6)](https://skillicons.dev)
+
+### Scripting / Automation
+Scripts for fun and efficiency.
+[![Scripting Skills](https://skillicons.dev/icons?i=bash,powershell,regex&perline=6)](https://skillicons.dev)
+
+### Desktop Apps
+Trying out desktop app dev.
+[![Desktop Skills](https://skillicons.dev/icons?i=electron&perline=6)](https://skillicons.dev)
+
+### Other
+Community tools I use.
+[![Other Skills](https://skillicons.dev/icons?i=discord&perline=6)](https://skillicons.dev)
+
+## 🌱 Currently Learning
+
+- **C++**: Taking classes to dive into system programming.
+
+## 📊 GitHub Stats
+
+![Poruiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=poruiya&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=poruiya&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
-#
+
+## 🏆 Achievements
+
+- Built a bot for 5+ servers.
+- Created my first website at age 11.
+
+## 📫 Connect with Me
+
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />](https://discordapp.com/users/942361321456926721) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />](https://www.github.com/poruiya) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />](https://www.instagram.com/poruiya._.deragon)
 <img src="https://komarev.com/ghpvc/?username=poruiya&color=brightgreen" alt="watching_count" />
+> *Built with 💻 and a spark of creativity by Poruiya*  
+> *Last updated: May 19, 2025*
