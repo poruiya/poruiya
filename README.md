@@ -25,43 +25,33 @@ I'm Poruiya, a 17-year-old coder from Iran, programming since I was 8. I'm a sel
 ## 🛠️ Skills
 
 ### Front-End Development
-Crafting sleek web interfaces.
 [![Front-End Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,sass,tailwind,styledcomponents,ts,webpack&perline=6)](https://skillicons.dev)
 
 ### Back-End Development
-Powering apps with server-side logic.
 [![Back-End Skills](https://skillicons.dev/icons?i=nodejs,php,laravel,py,dotnet,mongodb,mysql,discordjs&perline=6)](https://skillicons.dev)
 
 ### DevOps / Deployment
-Managing and deploying projects.
 [![DevOps Skills](https://skillicons.dev/icons?i=git,github,netlify,cloudflare,npm,yarn,sentry&perline=6)](https://skillicons.dev)
 
 ### Design / Creative
-Designing visuals for bots and servers.
 [![Design Skills](https://skillicons.dev/icons?i=figma,blender,ps&perline=6)](https://skillicons.dev)
 
 ### System Programming
-Learning low-level coding.
 [![System Skills](https://skillicons.dev/icons?i=c,cpp&perline=6)](https://skillicons.dev)
 
 ### IDEs / Tools
-My coding tools.
 [![Tools Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea&perline=6)](https://skillicons.dev)
 
 ### Operating Systems
-Platforms for coding and testing.
 [![OS Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,kali,windows&perline=6)](https://skillicons.dev)
 
 ### Scripting / Automation
-Scripts for fun and efficiency.
 [![Scripting Skills](https://skillicons.dev/icons?i=bash,powershell,regex&perline=6)](https://skillicons.dev)
 
 ### Desktop Apps
-Trying out desktop app dev.
 [![Desktop Skills](https://skillicons.dev/icons?i=electron&perline=6)](https://skillicons.dev)
 
 ### Other
-Community tools I use.
 [![Other Skills](https://skillicons.dev/icons?i=discord&perline=6)](https://skillicons.dev)
 
 ## 🌱 Currently Learning
