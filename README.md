@@ -21,7 +21,7 @@
 
 
 ### My Skills and Tools & Software I Use
-[![My Skills](https://skillicons.dev/icons?i=blender,bootstrap,c,cpp,cloudflare,css,discord,bots,discordjs,dotnet,electron,figma,git,github,html,idea,js,laravel,mongodb,mysql,netlify,nextjs,nodejs,npm,ps,php,py,react,sass,styledcomponents,sentry,tailwind,ts,visualstudio,vscode,webpack,,arch,,kali,bash,linux,powershell,regex,ubuntu,windows,yarn)](https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,sass,tailwind,styledcomponents,ts,webpack,nodejs,php,laravel,py,dotnet,mongodb,mysql,discordjs,git,github,netlify,cloudflare,npm,yarn,sentry,figma,blender,ps,c,cpp,vscode,visualstudio,idea,linux,ubuntu,arch,kali,windows,bash,powershell,regex,electron,discord)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,sass,tailwind,styledcomponents,ts,webpack,nodejs,php,laravel,py,dotnet,mongodb,mysql,discordjs,git,github,netlify,cloudflare,npm,yarn,sentry,figma,blender,ps,c,cpp,vscode,visualstudio,idea,linux,ubuntu,arch,kali,windows,bash,powershell,regex,electron,discord)
 # 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=poruiya&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=poruiya&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
