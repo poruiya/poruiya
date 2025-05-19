@@ -25,34 +25,34 @@ I'm Poruiya, a 17-year-old coder from Iran, programming since I was 8. I'm a sel
 ## 🛠️ Skills
 
 ### Front-End Development
-[![Front-End Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,sass,tailwind,styledcomponents,ts,webpack&perline=6)](https://skillicons.dev)
+[![Front-End Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,sass,tailwind,styledcomponents,ts,webpack)](https://skillicons.dev)
 
 ### Back-End Development
-[![Back-End Skills](https://skillicons.dev/icons?i=nodejs,php,laravel,py,dotnet,mongodb,mysql,discordjs&perline=6)](https://skillicons.dev)
+[![Back-End Skills](https://skillicons.dev/icons?i=nodejs,php,laravel,py,dotnet,mongodb,mysql,discordjs)](https://skillicons.dev)
 
 ### DevOps / Deployment
-[![DevOps Skills](https://skillicons.dev/icons?i=git,github,netlify,cloudflare,npm,yarn,sentry&perline=6)](https://skillicons.dev)
+[![DevOps Skills](https://skillicons.dev/icons?i=git,github,netlify,cloudflare,npm,yarn,sentry)](https://skillicons.dev)
 
 ### Design / Creative
-[![Design Skills](https://skillicons.dev/icons?i=figma,blender,ps&perline=6)](https://skillicons.dev)
+[![Design Skills](https://skillicons.dev/icons?i=figma,blender,ps)](https://skillicons.dev)
 
 ### System Programming
-[![System Skills](https://skillicons.dev/icons?i=c,cpp&perline=6)](https://skillicons.dev)
+[![System Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
 ### IDEs / Tools
-[![Tools Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea&perline=6)](https://skillicons.dev)
+[![Tools Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea)](https://skillicons.dev)
 
 ### Operating Systems
-[![OS Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,kali,windows&perline=6)](https://skillicons.dev)
+[![OS Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,kali,windows)](https://skillicons.dev)
 
 ### Scripting / Automation
-[![Scripting Skills](https://skillicons.dev/icons?i=bash,powershell,regex&perline=6)](https://skillicons.dev)
+[![Scripting Skills](https://skillicons.dev/icons?i=bash,powershell,regex)](https://skillicons.dev)
 
 ### Desktop Apps
-[![Desktop Skills](https://skillicons.dev/icons?i=electron&perline=6)](https://skillicons.dev)
+[![Desktop Skills](https://skillicons.dev/icons?i=electron)](https://skillicons.dev)
 
 ### Other
-[![Other Skills](https://skillicons.dev/icons?i=discord&perline=6)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=discord,gmail,instagram)](https://skillicons.dev)
 
 ## 🌱 Currently Learning
 
