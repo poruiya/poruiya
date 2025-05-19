@@ -62,7 +62,6 @@ I'm Poruiya, a 17-year-old coder from Iran, programming since I was 8. I'm a sel
 
 ![Poruiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=poruiya&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=poruiya&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
-![Snake](https://github.com/poruiya/poruiya/blob/output/github-contribution-grid-snake-dark.svg)
 ## 🏆 Achievements
 
 - Built a bot for 5+ servers.
