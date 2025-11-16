@@ -56,9 +56,6 @@ I'm Poruiya, a 17-year-old coder from Iran, programming since I was 8. I'm a sel
 ![Poruiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=poruiya&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=poruiya&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
 
-## 📫 Connect with Me
-
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />](https://discordapp.com/users/942361321456926721) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />](https://www.github.com/poruiya) [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />](https://www.instagram.com/poruiya._.deragon)
 <img src="https://komarev.com/ghpvc/?username=poruiya&color=brightgreen" alt="watching_count" />
 > *Built with 💻 and a spark of creativity by Poruiya*  
-> *Last updated: May 19, 2025*
+> *Last updated: November 16, 2025*
