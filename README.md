@@ -4,14 +4,11 @@
 
 I'm Poruiya, a 17-year-old coder from Iran, programming since I was 8. I'm a self-taught web developer and Discord enthusiast, building bots and managing servers. My motto: *"Programming has no limits, just try to build your idea!"* I code for fun, create scripts, and I'm learning C++ in class while exploring new tech.
 
-📬 **Need a bot or server help?** DM me on [Discord](https://discordapp.com/users/942361321456926721)!
-
 ## 💡 About Me
 
 - **Age**: 17, coding since age 8
 - **From**: Iran, powered by curiosity
 - **Skills**: Self-taught web dev (HTML, CSS, JS) + Discord bots (Discord.js)
-- **Learning**: C++ in class, eyeing cybersecurity and desktop apps
 - **Passion**: Making communities thrive with code
 - **Fun Fact**: My first script was a bot that sent random memes!
 
@@ -54,18 +51,10 @@ I'm Poruiya, a 17-year-old coder from Iran, programming since I was 8. I'm a sel
 ### Other
 [![Other Skills](https://skillicons.dev/icons?i=discord,gmail,instagram)](https://skillicons.dev)
 
-## 🌱 Currently Learning
-
-- **C++**: Taking classes to dive into system programming.
-
 ## 📊 GitHub Stats
 
 ![Poruiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=poruiya&count_private=true&show_icons=true&title_color=57cdf1&text_color=ffffff&icon_color=57cdf1&border_color=0d1117&bg_color=0d1117)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=poruiya&background=0d1117&border=0d1117&stroke=57cdf1&ring=57cdf1&fire=57cdf1&currStreakNum=57cdf1&sideNums=57cdf1&currStreakLabel=57cdf1&sideLabels=57cdf1&dates=ffffff)
-## 🏆 Achievements
-
-- Built a bot for 5+ servers.
-- Created my first website at age 11.
 
 ## 📫 Connect with Me
 
