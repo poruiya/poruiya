@@ -21,34 +21,33 @@ I'm Poruiya, a 18 Year old coder from Iran, programming since I was 8. I'm a sel
 ## 🛠️ Skills
 
 ### Front-End Development
-[![Front-End Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,sass,tailwind,styledcomponents,ts,webpack)](https://skillicons.dev)
+[![Front-End Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,sass,tailwind,styledcomponents,ts,webpack)]
 
 ### Back-End Development
-[![Back-End Skills](https://skillicons.dev/icons?i=nodejs,php,laravel,py,dotnet,mongodb,mysql,discordjs)](https://skillicons.dev)
-
+[![Back-End Skills](https://skillicons.dev/icons?i=nodejs,php,laravel,py,dotnet,mongodb,mysql,discordjs)]
 ### DevOps / Deployment
-[![DevOps Skills](https://skillicons.dev/icons?i=git,github,netlify,cloudflare,npm,yarn,sentry)](https://skillicons.dev)
+[![DevOps Skills](https://skillicons.dev/icons?i=git,github,netlify,cloudflare,npm,yarn,sentry)]
 
 ### Design / Creative
-[![Design Skills](https://skillicons.dev/icons?i=figma,blender,ps)](https://skillicons.dev)
+[![Design Skills](https://skillicons.dev/icons?i=figma,blender,ps)]
 
 ### System Programming
-[![System Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
+[![System Skills](https://skillicons.dev/icons?i=c,cpp)]
 
 ### IDEs / Tools
-[![Tools Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea)](https://skillicons.dev)
+[![Tools Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,cursor)]
 
 ### Operating Systems
-[![OS Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,kali,windows)](https://skillicons.dev)
+[![OS Skills](https://skillicons.dev/icons?i=linux,arch,kali,windows)]
 
 ### Scripting / Automation
-[![Scripting Skills](https://skillicons.dev/icons?i=bash,powershell,regex)](https://skillicons.dev)
+[![Scripting Skills](https://skillicons.dev/icons?i=bash,powershell,regex)]
 
 ### Desktop Apps
-[![Desktop Skills](https://skillicons.dev/icons?i=electron)](https://skillicons.dev)
+[![Desktop Skills](https://skillicons.dev/icons?i=electron)]
 
 ### Other
-[![Other Skills](https://skillicons.dev/icons?i=discord,gmail,instagram)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=discord,gmail,instagram)]
 
 ## 📊 GitHub Stats
 
