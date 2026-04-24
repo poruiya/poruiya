@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Poruiya!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57CDF1&width=435&lines=Self-Taught+Developer;%26+Web+Dev;No+Limits,+Just+Build!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57CDF1&width=435&lines=Self-Taught+Developer;+Web+Developer;No+Limits,+Just+Build!)](https://git.io/typing-svg)
 
 I'm Poruiya, a 18 Year old coder from Iran, programming since I was 8. I'm a self-taught web developer, building Sites and managing servers. My motto: *"Programming has no limits, just try to build your idea!"* I code for fun, create scripts, and I'm learning C++ in class while exploring new tech.
 
