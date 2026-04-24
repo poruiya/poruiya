@@ -21,33 +21,33 @@ I'm Poruiya, a 18 Year old coder from Iran, programming since I was 8. I'm a sel
 ## 🛠️ Skills
 
 ### Front-End Development
-[![Front-End Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,sass,tailwind,styledcomponents,ts,webpack)]
+![Front-End Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,sass,tailwind,styledcomponents,ts,webpack)
 
 ### Back-End Development
-[![Back-End Skills](https://skillicons.dev/icons?i=nodejs,php,laravel,py,dotnet,mongodb,mysql,discordjs)]
+![Back-End Skills](https://skillicons.dev/icons?i=nodejs,php,laravel,py,dotnet,mongodb,mysql,discordjs)
 ### DevOps / Deployment
-[![DevOps Skills](https://skillicons.dev/icons?i=git,github,netlify,cloudflare,npm,yarn,sentry)]
+![DevOps Skills](https://skillicons.dev/icons?i=git,github,netlify,cloudflare,npm,yarn,sentry)
 
 ### Design / Creative
-[![Design Skills](https://skillicons.dev/icons?i=figma,blender,ps)]
+![Design Skills](https://skillicons.dev/icons?i=figma,blender,ps)
 
 ### System Programming
-[![System Skills](https://skillicons.dev/icons?i=c,cpp)]
+![System Skills](https://skillicons.dev/icons?i=c,cpp)
 
 ### IDEs / Tools
-[![Tools Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,cursor)]
+![Tools Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea,cursor)
 
 ### Operating Systems
-[![OS Skills](https://skillicons.dev/icons?i=linux,arch,kali,windows)]
+![OS Skills](https://skillicons.dev/icons?i=linux,arch,kali,windows)
 
 ### Scripting / Automation
-[![Scripting Skills](https://skillicons.dev/icons?i=bash,powershell,regex)]
+![Scripting Skills](https://skillicons.dev/icons?i=bash,powershell,regex)
 
 ### Desktop Apps
-[![Desktop Skills](https://skillicons.dev/icons?i=electron)]
+![Desktop Skills](https://skillicons.dev/icons?i=electron)
 
 ### Other
-[![Other Skills](https://skillicons.dev/icons?i=discord,gmail,instagram)]
+![Other Skills](https://skillicons.dev/icons?i=discord,gmail,instagram)
 
 ## 📊 GitHub Stats
 
