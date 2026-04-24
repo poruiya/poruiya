@@ -1,15 +1,14 @@
 # 👋 Hi, I'm Poruiya!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57CDF1&width=435&lines=17yo+Self-Taught+Developer;Discord+Bots+%26+Web+Dev;No+Limits,+Just+Build!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=57CDF1&width=435&lines=Self-Taught+Developer;%26+Web+Dev;No+Limits,+Just+Build!)](https://git.io/typing-svg)
 
-I'm Poruiya, a 17-year-old coder from Iran, programming since I was 8. I'm a self-taught web developer and Discord enthusiast, building bots and managing servers. My motto: *"Programming has no limits, just try to build your idea!"* I code for fun, create scripts, and I'm learning C++ in class while exploring new tech.
+I'm Poruiya, a 18 Year old coder from Iran, programming since I was 8. I'm a self-taught web developer, building Sites and managing servers. My motto: *"Programming has no limits, just try to build your idea!"* I code for fun, create scripts, and I'm learning C++ in class while exploring new tech.
 
 ## 💡 About Me
 
-- **Age**: 17, coding since age 8
+- **Age**: 18, coding since age 8
 - **From**: Iran, powered by curiosity
-- **Skills**: Self-taught web dev (HTML, CSS, JS) + Discord bots (Discord.js)
-- **Passion**: Making communities thrive with code
+- **Skills**: Self-taught web dev (HTML, CSS, JS, Nextjs) + Backend (Node.js)
 - **Fun Fact**: My first script was a bot that sent random memes!
 
 ## 🚀 What I Do
@@ -59,4 +58,3 @@ I'm Poruiya, a 17-year-old coder from Iran, programming since I was 8. I'm a sel
 <img src="https://komarev.com/ghpvc/?username=poruiya&color=brightgreen" alt="watching_count" />
 
 > *Built with 💻 and a spark of creativity by Poruiya*  
-> *Last updated: November 16, 2025*
